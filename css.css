@@ -77,6 +77,10 @@ footer {
         text-align: center;
         width: 200px;
     }
+#menu-accordeon li:hover li {
+    max-height: 5em;
+}
+
 }
 @media screen and (min-width: 568px max-width: 569px) {
 #menu-accordeon {
