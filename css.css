@@ -78,7 +78,7 @@ footer {
         width: 300px;
     }
 }
-@media screen and (max-width: 568px) {
+@media screen and (min-width: 568px max-width: 569px) {
 #menu-accordeon {
         padding: 0;
         margin: 0;
