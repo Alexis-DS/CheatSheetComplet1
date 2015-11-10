@@ -49,10 +49,10 @@ footer {
     text-decoration: none;
     padding: 8px 0;
     font-family: verdana;
-    font-size: 10px
+    font-size: 50%;
 }
 #menu-accordeon ul li a, #menu-accordeon li:hover li a {
-    font-size: 13px;
+    font-size: 70%;
 }
 #menu-accordeon li:hover li {
     max-height: 5em;
