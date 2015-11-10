@@ -55,12 +55,12 @@ footer {
     font-size: 70%;
 }
 #menu-accordeon li:hover li {
-    max-height: 5em;
+    max-height: 2em;
 }
 
 /*mobile first*/
 
-@media screen and (max-width: 320px) { /*modification of width for mobile max:320px*/
+@media screen and (max-width: 320px) {
     #menu-accordeon {
         padding: 0;
         margin: 0;
