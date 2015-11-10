@@ -55,7 +55,7 @@ footer {
     font-size: 13px;
 }
 #menu-accordeon li:hover li {
-    max-height: 10em;
+    max-height: 5em;
 }
 
 /*mobile first*/
