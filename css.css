@@ -69,22 +69,13 @@ footer {
         width: 200px;
     }
 }
-@media screen and (min-width: 480px max-width: px) {
+@media screen and (min-width: 480px max-width: 599px) {
 #menu-accordeon {
         padding: 0;
         margin: 0;
         list-style: none;
         text-align: center;
-        width: 300px;
-    }
-}
-@media screen and (min-width: 568px max-width: 569px) {
-#menu-accordeon {
-        padding: 0;
-        margin: 0;
-        list-style: none;
-        text-align: center;
-        width: 300px;
+        width: 200px;
     }
 }
 @media screen and (max-width: 600px) {}
